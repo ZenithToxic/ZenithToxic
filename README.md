@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZenithToxic
-- 👀 I’m interested in le development full stack
-- 🌱 I’m currently learning a faire les meilleur truc undetectable par les anti-virus
-- 💞️ I’m looking to collaborate on les cheetos
+- 👋 Hi, my name is @ZenithToxic
+- 👀 I am interested in full stack development
+- 🌱 I'm currently teaching dev the best undetectable Cheetos
+- 💞️ I'm looking to collaborate on Cheetos
 - 📫 How to reach me https://discord.gg/AvrYZrwPBK
 - 😄 Pronouns: Zenith
 
